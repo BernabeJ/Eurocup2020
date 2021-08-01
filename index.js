@@ -54,18 +54,3 @@ eurocopa.startFinales();
 console.log('                                                              ');
 
 
-// eurocopa.cruceCuartos();
-
-
-
-// eurocopa.planificacion.forEach((jornada)=> {
-//     jornada.forEach(partido => {
-//         console.log(` ${partido.cruce} - ${partido.home} vs ${partido.away}`);
-//     })
-//     console.log(`============================`)
-// });
-
-// console.table(eurocopa.equipos)
-// console.log(`=============================================================`)
- 
-
